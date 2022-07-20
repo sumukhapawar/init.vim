@@ -1,4 +1,4 @@
-# vimrc
+# init.vim
 My **init.vim** configuration.
 
 ## List of plugins:
