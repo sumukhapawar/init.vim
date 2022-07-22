@@ -1,5 +1,5 @@
-# vimrc
-My **vimrc** configuration.
+# init.vim
+My **init.vim** configuration.
 
 ## List of plugins:
 - Color Schemes
