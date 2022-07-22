@@ -3,6 +3,7 @@ source ~\Appdata\Local\nvim\basic-settings\settings.vim
 
 " Plugins
 source ~\Appdata\Local\nvim\vim-plug\plugins.vim
+source ~\Appdata\Local\nvim\airline.vim
 
 " Shortcut for NERDtree
 nnoremap <C-n> :NERDTree<CR>

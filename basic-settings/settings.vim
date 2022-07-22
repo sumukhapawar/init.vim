@@ -14,7 +14,8 @@ set incsearch
 set signcolumn=yes
 set termguicolors
 set showcmd
-set showmode
+set nowrap
+set noshowmode
 
 set encoding=utf-8
 set cmdheight=2

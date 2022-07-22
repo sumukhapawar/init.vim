@@ -14,5 +14,8 @@ call plug#begin('/plugged')
     " coc - conquer of completion
     " Use release branch (recommend)
     Plug 'neoclide/coc.nvim', {'branch': 'release'}
+    " Statusline 
+    Plug 'vim-airline/vim-airline' 
+    Plug 'vim-airline/vim-airline-themes'
 
 call plug#end()
