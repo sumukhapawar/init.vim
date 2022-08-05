@@ -8,4 +8,4 @@ let g:airline#extensions#tabline#right_alt_sep = ''
 " let g:airline_powerline_fonts = 1
 
 " Change theme
-let g:airline_theme = 'onedark'
+let g:airline_theme = 'gruvbox'

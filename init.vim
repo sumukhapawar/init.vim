@@ -14,7 +14,7 @@ autocmd VimEnter * if argc() == 1 && isdirectory(argv()[0]) && !exists('s:std_in
     \ execute 'NERDTree' argv()[0] | wincmd p | enew | execute 'cd '.argv()[0] | endif
 
 " colorscheme
-colorscheme onedark
+colorscheme gruvbox
 
 " coc config file
 source ~\Appdata\Local\nvim\coc.vim
